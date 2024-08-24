@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gerges Bernaba</h1>
 <h3 align="center">A passionate Senior .NET Developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gergesbernaba1" alt="gergesbernaba1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gergesbernaba1" target="blank"><img src="https://img.shields.io/twitter/follow/gergesbernaba1?logo=twitter&style=for-the-badge" alt="gergesbernaba1" /></a> </p>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gergesbernaba/](https://www.linkedin.com/in/gergesbernaba/)
